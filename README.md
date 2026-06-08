@@ -1,4 +1,4 @@
-## Earbender - Music App
+# Earbender - Music App
 
 A concept of Music App developed using Flutter. Having functionality of playing Audio.
 
